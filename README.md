@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Introduction to Data Science with Python
 ================
 
 ### posit::conf 2023
